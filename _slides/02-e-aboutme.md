@@ -8,4 +8,4 @@ transition: zoom
   - To improve public health 
   - To leverage technology to mitigate side-effects and to improve access to care
   
-<img src="http://www.billmongan.com/files/media/software-iotframework/simbabyandpregnancy.jpg" width="40%" />  
+<img src="http://www.billmongan.com/files/media/software-iotframework/simbabyandpregnancy.jpg" style="max-height:200px" />  
