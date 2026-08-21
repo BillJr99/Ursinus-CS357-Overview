@@ -27,17 +27,22 @@
     <link rel="stylesheet" href="{{ 'assets/css/reveal.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/theme/' | relative_url }}{{ site.reveal.theme }}.css" id="theme">
 
-    <!-- Fit adjustments: shrink code/tables/quotes so dense slides fit; keep prose large -->
+    <!-- Fit adjustments: smaller base type so slides carry more; code and tables
+         hold their absolute size (classroom readability floor ~15px / ~20px). -->
     <style>
-      .reveal pre { width: 100%; margin: 8px auto; box-shadow: none; font-size: 0.38em; }
+      .reveal { font-size: 32px; }
+      .reveal h1 { font-size: 2.6em; }
+      .reveal h2 { font-size: 1.6em; }
+      .reveal h3 { font-size: 1.25em; }
+      .reveal h1, .reveal h2, .reveal h3 { line-height: 1.1; margin-bottom: 12px; }
+      .reveal pre { width: 100%; margin: 8px auto; box-shadow: none; font-size: 0.46em; }
       .reveal pre code { line-height: 1.18; padding: 8px 12px; }
-      .reveal h1, .reveal h2, .reveal h3 { line-height: 1.1; margin-bottom: 14px; }
-      .reveal table { font-size: 0.55em; }
+      .reveal table { font-size: 0.62em; }
       .reveal table th, .reveal table td { padding: 0.2em 0.4em; }
-      .reveal blockquote { font-size: 0.72em; width: 92%; padding: 10px 16px; }
-      .reveal section img { max-height: 290px; max-width: 86%; height: auto; width: auto; box-sizing: border-box; }
-      .reveal p { line-height: 1.2; margin-bottom: 0.4em; }
-      .reveal li { line-height: 1.2; }
+      .reveal blockquote { font-size: 0.8em; width: 94%; padding: 10px 16px; }
+      .reveal section img { max-height: 300px; max-width: 86%; height: auto; width: auto; box-sizing: border-box; }
+      .reveal p { line-height: 1.25; margin-bottom: 0.4em; }
+      .reveal li { line-height: 1.25; }
       .reveal ol, .reveal ul { margin-bottom: 0.2em; }
     </style>
 

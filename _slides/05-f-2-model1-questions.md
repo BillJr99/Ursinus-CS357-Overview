@@ -2,6 +2,8 @@
 transition: zoom
 ---
 
-## Model 1: Critical Thinking Questions (cont.)
+## Model 1: Critical Thinking Questions
 
-2. Which systems pursue a **goal** over multiple steps? Which respond once and stop?
+3. System A contains no machine learning at all. Can something be an agent without being "AI"? Defend your answer.
+
+   > *Hint: Look back at the working definition in section 2. Does it say anything about learning, or only about perceiving, deciding, and acting?*
