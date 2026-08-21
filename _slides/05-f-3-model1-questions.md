@@ -2,6 +2,8 @@
 transition: zoom
 ---
 
-## Model 1: Critical Thinking Questions (cont.)
+## Model 1: Critical Thinking Questions
 
-3. System A contains no machine learning at all. Can something be an agent without being "AI"? Defend your answer.
+4. What would System B need in order to behave like System C?
+
+   > *Hint: Think about what System C has that System B lacks — memory, tools, a goal that persists across steps. List at least two additions.*

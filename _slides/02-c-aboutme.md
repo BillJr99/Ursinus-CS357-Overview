@@ -4,15 +4,8 @@ transition: zoom
 
 ## About Me
 
-- I am a private pilot who loves to travel   
-
-<div class="paragraph">
-    <p>
-        <span class="image">
-            <img src="./images/bill-pilot.jpg" width="40%" />
-        </span> 
-        <span class="image">
-            <img src="./images/carmel.jpg" width="40%" />
-        </span>
-    </p>
-</div>
+- I use computing (specifically Machine Learning and Signal Processing)...
+  - To improve public health 
+  - To leverage technology to mitigate side-effects and to improve access to care
+  
+<img src="http://www.billmongan.com/files/media/software-iotframework/simbabyandpregnancy.jpg" style="max-height:200px" />  
